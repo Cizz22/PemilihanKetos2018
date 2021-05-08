@@ -1,0 +1,44 @@
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="Pilketos.com" resolutions="1x" timestamp="1539849003989">
+  <folder name="css">
+    <file name="site_global.css" crc="4184824052"/>
+    <file name="habis-vote.css" crc="485817406" ref="habis-vote"/>
+    <file name="index.css" crc="86317586" ref="index"/>
+    <file name="vote-page.css" crc="238316153" ref="vote-page"/>
+  </folder>
+  <folder name="assets">
+    <file name="state_button_transition_qooqee_widgets.mulib" crc="3983703080" seo="true" mt="1410160792000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:vote-page:habis-vote"/>
+    <file name="museutils.js" crc="163421577" ref="index:vote-page:habis-vote"/>
+    <file name="whatinput.js" crc="86476730" ref="index:vote-page:habis-vote"/>
+    <file name="museconfig.js" crc="168988563" ref="index:vote-page:habis-vote"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="379354253" ref="index:vote-page:habis-vote"/>
+    <file name="jquery.watch.js" crc="104486786" ref="index:vote-page:habis-vote"/>
+    <file name="webpro.js" crc="3848665353" ref="index"/>
+    <file name="musewpdisclosure.js" crc="4275188064" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="4065090679" ref="index:habis-vote"/>
+    <file name="require.js" crc="244322403" ref="index:vote-page:habis-vote"/>
+  </folder>
+  <folder name="images">
+    <file name="background-u362-fr.png" crc="3810095464" ref="index"/>
+    <file name="bwks2.png" crc="205986496" seo="true" ref="index"/>
+    <file name="whatsapp image 2018-10-17 at 075625.jpg" crc="4215145026" ref="index"/>
+    <file name="u328-4.png" crc="104888106" ref="index"/>
+    <file name="wakasie6.png" crc="4017319390" ref="index"/>
+    <file name="u330-4.png" crc="4236889852" ref="index"/>
+    <file name="whatsapp image 2018-10-17 at 075652-u322-fr.jpg" crc="3811522870" ref="index"/>
+    <file name="u323-4.png" crc="3914266741" ref="index"/>
+    <file name="u1000-4.png" crc="224962078" ref="index"/>
+    <file name="leaflet profil sma 3 (2 cropp).jpg" crc="4217420832" ref="index"/>
+    <file name="jarpan.jpg" crc="4100422214" ref="vote-page"/>
+    <file name="far ah.jpg" crc="3873124941" ref="vote-page"/>
+    <file name="rerei.jpg" crc="3812531391" ref="vote-page"/>
+    <file name="vorte page.png" crc="3969179579" ref="vote-page"/>
+    <file name="u1994-4.png" crc="208996205" ref="habis-vote"/>
+    <file name="474d4a5361353f6e070a690f6d054862.jpg" crc="3915614360" ref="habis-vote"/>
+  </folder>
+  <file name="index.html" crc="369189553" seo="true" mt="1539847766803" redirect="true"/>
+  <file name="vote-page.html" crc="110368602" seo="true" mt="1539847090622" redirect="true"/>
+  <file name="habis-vote.html" crc="4273716653" seo="true" mt="1539847923461" redirect="true"/>
+</manifest>
